@@ -1,0 +1,81 @@
+[
+    {
+        "firstName": "Nahuel Antonio ",
+        "lastName": "Brito",
+        "email": "britonahuelantonio@gmial.com",
+        "birthdate": "29/12/2000",
+        "age": 23,
+        "password": 123,
+        "role": "SUPERUSUARIO",
+        "documents": [ null ],
+        "last_connection": null,
+        "profileImage": null
+    },
+    {
+        "firstName": "Luis ",
+        "lastName": "Perez",
+        "email": "Luis@gmial.com",
+        "birthdate": "22/11/1900",
+        "age": 30,
+        "password": 123,
+        "role": "ADMINISTRATIVO",
+        "documents": [ null ],
+        "last_connection": null,
+        "profileImage": null,
+        "departamento": "contabilidad"
+    },
+    {
+        "firstName": "Juan ",
+        "lastName": "Brito",
+        "email": "juan@gmial.com",
+        "birthdate": "25/03/1968",
+        "age": 23,
+        "password": 123,
+        "role": "APODERADO",
+        "documents": [ null ],
+        "last_connection": null,
+        "profileImage": null,
+        "proxies": [ null ]
+    },
+    {
+        "firstName": "Lautato ",
+        "lastName": "Reichert",
+        "email": "Lauty@gmial.com",
+        "birthdate": "25/04/2001",
+        "age": 23,
+        "password": 123,
+        "role": "ALUMNO",
+        "documents": [ null ],
+        "last_connection": null,
+        "profileImage": null,
+        "course": 0,
+        "subjects": [ null ]
+    },
+    {
+        "firstName": "Maximiliano",
+        "lastName": "Rodriguez",
+        "email": "MAxi@gmial.com",
+        "birthdate": "21/05/2001",
+        "age": 23,
+        "password": 123,
+        "role": "EXALUMNO",
+        "documents": [ null ],
+        "last_connection": null,
+        "profileImage": null,
+        "seniorYear": 2019
+    },
+    {
+        "firstName": "Matias ",
+        "lastName": "Castelo",
+        "email": "Matias@gmial.com",
+        "birthdate": "22/04/2001",
+        "age": 23,
+        "password": 123,
+        "role": "PROFESOR",
+        "documents": [ null ],
+        "last_connection": null,
+        "profileImage": null,
+        "courses": [ 1 ],
+        "subjects": null
+    }
+]
